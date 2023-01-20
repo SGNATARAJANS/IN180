@@ -1,0 +1,15 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: cpisuite-us-04
+    integrationFlowId: S0008312390-flow4
+  integrationArtifactGetMplStatus:
+    cpiApiServiceKeyCredentialsId: cpisuite-us-04
+    integrationFlowId: S0008312390-flow4
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: cpisuite-us-04
+    integrationFlowId: S0008312390-flow4
+    integrationFlowName: S0008312390-flow4
+    packageId: CICD
+    filePath: S0008312390-flow4.zip
+
+
